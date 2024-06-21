@@ -14,7 +14,3 @@ Furthermore, Fastify has robust SEO optimization features. It ensures that the g
 - Shopify Integration: Edit the page directly within the Shopify editor.
 - Optimize SEO and Page Speed: Ensures faster load times and better search engine visibility.
 - High Conversion Rate: Designed to convert site visitors into customers.
-
-## Summarize
-
-Fastify simplifies and accelerates the creation of product pages, making it an essential tool for Shopify users looking to optimize their online presence and increase sales.
